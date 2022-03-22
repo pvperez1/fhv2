@@ -8,26 +8,33 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="/assets/img/about.png" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About Felice Prudente Sta. Maria;About Philippine Food History Project" %}
 
-## About CollectionBuilder CSV
+## About Felice Prudente Sta. Maria
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Felice Prudente Sta. Maria has been a cultural advocate and author known for her works on Philippine food.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+She is a recipient of Ateneo de Manila University’s Gawad Tanghal ng Lahi Award in 2021 “in pursuit of Filipinism and Filipino identity….”.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Among her culinary books, The Governor-General’s Kitchen: Culinary Vignettes and Period Recipes, 1521-1935 (2006) placed second at the Gourmand World Cookbook Awards in 2008, the first time a Philippine entry received an award in the food history category. Another book, The Foods of Jose Rizal (2012) was country winner and finalist in the food history category of the same award in 2013.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+She is a trustee at the National Museum of the Philippines, a member of the Ayala Museum board of advisers, and cofounder of the Food Writers Association.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+{% include feature/image.html objectid="/assets/img/profile.jpeg" width="50" %}
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+Follow her on Instagram, [@felicepstamaria](https://www.instagram.com/felicepstamaria/) and Facebook, [Felice Prudente Sta. Maria](https://www.facebook.com/felice.p.maria)
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Philippine Food History Project
+
+Philippine food and beverage have a fascinating and ongoing story reaching into prehistory. These exhibits celebrate how Filipinos have been creatively selecting preferred ingredients, technologies, procedures, and flavors amidst transitioning social, religious, political, economic, and scientific conditions. They are a testament to the value of heritage side by side with an appreciation for the contemporary.
+
+Project Sponsor: **Felice Prudente Sta. Maria**
+
+Technical Lead: **Paul Jason V. Perez**
+
+Project Assistants:
+- **Lance Timothy San Juan**
+- **John Calooy**
+- **Dominique De Guzman**
