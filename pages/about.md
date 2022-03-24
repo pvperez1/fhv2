@@ -24,7 +24,7 @@ She was a culture page columnist for The Manila Times, 1986-1989, Sunday opinion
 
 She is currently on the board of advisers at Ayala Museum, and is a vice president and co-founder of Food Writers Association of the Philippines.
 
-{% include feature/image.html objectid="/assets/img/profile.jpeg" width="50" %}
+{% include feature/image.html objectid="/assets/img/profile.jpeg" width="50" caption="Photographed by Lito Sy, 2019"%}
 
 Follow her on Instagram, [@felicepstamaria](https://www.instagram.com/felicepstamaria/) and Facebook, [Felice Prudente Sta. Maria](https://www.facebook.com/felice.p.maria)
 
@@ -35,6 +35,8 @@ This website consolidates research about Philippine cuisine derived from written
 Much of the information was originally shared on Instagram [@felicepstamaria](https://www.instagram.com/felicepstamaria/) starting in 2019. Papers, PowerPoint presentations, vintage recipes, and other material about Filipino food history are being added.
 
 The website seeks to provide culinary enthusiasts and food heritage advocates with data from which they can pursue their own interdisciplinary research into how gastronomy developed in the Philippines and continues to innovate toward contemporary sustainability.
+
+Evidence unknown at the time of postings can revise published theories and conjectures. New discoveries in archival and library collections, archaeological excavations, and DNA-based analysis can revise food history. The website originator humbly apologises for any short-comings and mistakes beyond our control.
 
 
 Project Sponsor: **Felice Prudente Sta. Maria**
