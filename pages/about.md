@@ -14,13 +14,15 @@ credits: true
 
 ## About Felice Prudente Sta. Maria
 
-Felice Prudente Sta. Maria has been a cultural advocate and author known for her works on Philippine food.
+Felice Prudente Sta. Maria is the originator of the Philippine Food History website. She is an internationally awarded non-fiction author, cultural heritage advocate, and pioneer in Philippine food history specialising in the Spanish and American colonial eras.
 
-She is a recipient of Ateneo de Manila University’s Gawad Tanghal ng Lahi Award in 2021 “in pursuit of Filipinism and Filipino identity….”.
+“Cultural action is civic action,” has been her mantra well before the concept of cultural nationalism emerged. Because food can stimulate widespread popular discourse, Sta. Maria seeks out its roles in nurturing sustainable food security, nourishing interpersonal relations, enriching intrapersonal philosophy, and fortifying trans-generational inspiration.
 
-Among her culinary books, The Governor-General’s Kitchen: Culinary Vignettes and Period Recipes, 1521-1935 (2006) placed second at the Gourmand World Cookbook Awards in 2008, the first time a Philippine entry received an award in the food history category. Another book, The Foods of Jose Rizal (2012) was country winner and finalist in the food history category of the same award in 2013.
+She served as a commissioner on the Philippine National Commission for Culture and the Arts, 1992-1995 and UNESCO National Commission of the Philippines, 1992-2012, as well as a trustee of the Philippine National Museum, 2010-2016. She was president, 1986-1992 and then vice chairman for cultural relations 1992-1995 of Metropolitan Museum of Manila where she promoted a bilingual program of Art for All emphasizing educational activities.
 
-She is a trustee at the National Museum of the Philippines, a member of the Ayala Museum board of advisers, and cofounder of the Food Writers Association.
+She was a culture page columnist for The Manila Times, 1986-1989, Sunday opinion page columnist for Philippine Star, 1989-1995, and food columnist for Philippine Daily Inquirer, 2002-2003.
+
+She is currently on the board of advisers at Ayala Museum, and is a vice president and co-founder of Food Writers Association of the Philippines.
 
 {% include feature/image.html objectid="/assets/img/profile.jpeg" width="50" %}
 
@@ -28,7 +30,12 @@ Follow her on Instagram, [@felicepstamaria](https://www.instagram.com/felicepsta
 
 ## Philippine Food History Project
 
-Philippine food and beverage have a fascinating and ongoing story reaching into prehistory. These exhibits celebrate how Filipinos have been creatively selecting preferred ingredients, technologies, procedures, and flavors amidst transitioning social, religious, political, economic, and scientific conditions. They are a testament to the value of heritage side by side with an appreciation for the contemporary.
+This website consolidates research about Philippine cuisine derived from written sources starting in the 13th through the mid-20th centuries of the Common Era.
+
+Much of the information was originally shared on Instagram [@felicepstamaria](https://www.instagram.com/felicepstamaria/) starting in 2019. Papers, PowerPoint presentations, vintage recipes, and other material about Filipino food history are being added.
+
+The website seeks to provide culinary enthusiasts and food heritage advocates with data from which they can pursue their own interdisciplinary research into how gastronomy developed in the Philippines and continues to innovate toward contemporary sustainability.
+
 
 Project Sponsor: **Felice Prudente Sta. Maria**
 
