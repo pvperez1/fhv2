@@ -28,7 +28,7 @@ She is currently on the board of advisers at Ayala Museum, and is a vice preside
 
 Follow her on Instagram, [@felicepstamaria](https://www.instagram.com/felicepstamaria/) and Facebook, [Felice Prudente Sta. Maria](https://www.facebook.com/felice.p.maria)
 
-## Philippine Food History Project
+## About Philippine Food History Project
 
 This website consolidates research about Philippine cuisine derived from written sources starting in the 13th through the mid-20th centuries of the Common Era.
 
