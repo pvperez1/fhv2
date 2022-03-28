@@ -24,7 +24,7 @@ She was a culture page columnist for The Manila Times, 1986-1989, Sunday opinion
 
 She is currently on the board of advisers at Ayala Museum, and is a vice president and co-founder of Food Writers Association of the Philippines.
 
-{% include feature/image.html objectid="/assets/img/profile.jpeg" width="50" caption="Photographed by Lito Sy, 2019"%}
+{% include feature/image.html objectid="/assets/img/profile.jpg" width="50" caption="Photographed by Lito Sy, 2019"%}
 
 Follow her on Instagram, [@felicepstamaria](https://www.instagram.com/felicepstamaria/) and Facebook, [Felice Prudente Sta. Maria](https://www.facebook.com/felice.p.maria)
 
