@@ -16,7 +16,7 @@ credits: true
 
 Felice Prudente Sta. Maria is the originator of the Philippine Food History website. She is an internationally awarded non-fiction author, cultural heritage advocate, and pioneer in Philippine food history specialising in the Spanish and American colonial eras.
 
-“Cultural action is civic action,” has been her mantra well before the concept of cultural nationalism emerged. Because food can stimulate widespread popular discourse, Sta. Maria seeks out its roles in nurturing sustainable food security, nourishing interpersonal relations, enriching intrapersonal philosophy, and fortifying trans-generational inspiration.
+“Cultural action is civic action,” has been her mantra well before the concept of cultural nationalism re-emerged in recent discourse about cultural plurality. Because food can stimulate widespread popular discourse, Sta. Maria seeks out its roles in nurturing sustainable food security, nourishing interpersonal relations, enriching intrapersonal philosophy, and fortifying trans-generational inspiration.
 
 She served as a commissioner on the Philippine National Commission for Culture and the Arts, 1992-1995 and UNESCO National Commission of the Philippines, 1992-2012, as well as a trustee of the Philippine National Museum, 2010-2016. She was president, 1986-1992 and then vice chairman for cultural relations 1992-1995 of Metropolitan Museum of Manila where she promoted a bilingual program of Art for All emphasizing educational activities.
 
