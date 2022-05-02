@@ -15,4 +15,11 @@
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/{{ youtube_id }}?rel=0&modestbranding=1" allowfullscreen></iframe>
 </div>
+{% elsif page.object_location contains 'facebook' %}
+{% assign facebook_id = page.object_location %}
+<!-- Load Facebook SDK for Javascript -->
+<div id="fb-root"></div>
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<!-- Your embedded video -->
+<div class="fb-video" data-href="{{ facebook_id }}"  data-allowfullscreen="true" data-width="500"></div>
 {% endif %}
